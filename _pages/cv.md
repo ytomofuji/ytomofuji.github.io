@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+CV including full publications and presentations are available as [PDF]({{site.url}}/files/CV.pdf).
+
 Education
 ======
 * Osaka University, Osaka, Japan. 2020-2023

@@ -12,6 +12,11 @@ redirect_from:
 
 You can also find my articles and recent preprints on my [Google Scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=rs2N4vUAAAAJ).
 
+
+Selected publication and preprints
+======
+<a id="Selected_publication_and_preprints">
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
@@ -19,12 +24,6 @@ You can also find my articles and recent preprints on my [Google Scholar profile
 {% endfor %}
 
 
-Selected publication and preprints
-======
-<a id="Selected_publication_and_preprints">
-
-
-Under construction
 
 
 

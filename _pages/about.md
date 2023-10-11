@@ -21,7 +21,7 @@ Following two years of clinical training, he started Ph.D. training under Dr. Yu
   - Gut microbiome analysis of the SLE patients ([Tomofuji Y et al. Ann. Rheum. Dis. 2021](https://ard.bmj.com/content/80/12/1575.long))
   - Gut virome analysis of the RA/SLE/MS patients ([Tomofuji Y et al. Ann. Rheum. Dis. 2022](https://ard.bmj.com/content/81/2/278))
   - Catalogue of the microbes in the Japanese gut ([Tomofuji Y et al. Cell Genom. 2022](https://www.sciencedirect.com/science/article/pii/S2666979X22001720); co-correspondence)
-  - Evaluation of the human genome in the metagenome shotgun sequencing data ([Tomofuji Y et al. Nat. Microbiol. 2023](https://www.nature.com/articles/s41564-023-01381-3; co-correspondence)
+  - Evaluation of the human genome in the metagenome shotgun sequencing data ([Tomofuji Y et al. Nat. Microbiol. 2023](https://www.nature.com/articles/s41564-023-01381-3; co-correspondence))
   - Integrative analysis of the gut microbiome, human genome, and plasma metabolites (Tomofuji Y et al. Cell Rep. in Press; co-correspondence)
 
 ## Contact
