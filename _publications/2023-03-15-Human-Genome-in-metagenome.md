@@ -2,8 +2,7 @@
 title: "Reconstruction of the personal information from human genome reads in gut metagenome sequencing data"
 collection: publications
 permalink: /publication/2023-03-15-Human-Genome-in-metagenome
-excerpt_image: '/files/2023_paper/Human-Genome-in-metagenome.overview.jpg'
-excerpt: "It is known that a small amount of human DNA is contained in the stool samples. Using a statistical genetics approach, we asked how much personal information is contained in the human reads in the metagenome shotgun sequencing data. We demonstrate that human reads in the metagenome shotgun sequencing data were sufficient to identify an individual's genetics sex, genetic ancestry, and matched genotype data"
+excerpt: It is known that a small amount of human DNA is contained in the stool samples. Using a statistical genetics approach, we asked how much personal information is contained in the human reads in the metagenome shotgun sequencing data. We demonstrated that human reads in the metagenome shotgun sequencing data were sufficient to identify an individual's genetics sex, genetic ancestry, and matched genotype data. ![Study overview](/files/2023_paper/Human-Genome-in-metagenome.overview.jpg)
 date: '2023-03-15'
 venue: 'Nature Microbiology'
 paperurl: 'https://doi.org/10.1038/s41564-023-01381-3'

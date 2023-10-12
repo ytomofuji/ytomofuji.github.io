@@ -14,7 +14,7 @@ Following two years of clinical training, he started Ph.D. training under Dr. Yu
 
 ## Research interests
 
-- Integrative analysis of the single-cell omics data and genome data for immune cells. In addition to the conventional functional genomics approaches such as pseudobulk eQTL mapping, I am specifically interested in the development of new methods to uncover hidden biology in the omics data.Evaluation of the escape from X chromosome inactivation (Tomofuji Y et al. bioRxiv. 2023; co-correspondence; Github URL)
+- Integrative analysis of the single-cell omics data and genome data for immune cells. In addition to the conventional functional genomics approaches such as pseudobulk eQTL mapping, I am specifically interested in the development of new methods to uncover hidden biology in the omics data.
   - Evaluation of the escape from X chromosome inactivation (Tomofuji Y et al. bioRxiv. 2023; co-correspondence; [Github URL](https://github.com/ytomofuji/scLinaX))
 
 - Analysis of the gut microbiome using metagenome shotgun sequencing. I am specifically interested in autoimmune diseases, Japanese-specific gut microbes, and integrative analysis with human genome data.
