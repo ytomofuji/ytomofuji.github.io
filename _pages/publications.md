@@ -9,6 +9,7 @@ redirect_from:
 
 * [Selected publication and preprints](#Selected_publication_and_preprints)
 * [Full publication list](#Full_publication_list)
+* [Preprints](#Preprints)
 
 You can also find my articles and recent preprints on my [Google Scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=rs2N4vUAAAAJ).
 
@@ -66,3 +67,14 @@ The ‘\*’ and ‘†’ symbols indicate equal contribution and correspondenc
 * Nitta, T., Kochi, Y., Muro, R., **Tomofuji, Y.**, Okamura, T., Murata, S., Suzuki, H., Sumida, T., Yamamoto, K. & Takayanagi, H. Human thymoproteasome variations influence CD8 T cell selection. Science Immunology 2, eaan5165 (2017).
 
 * Takaba, H., Morishita, Y., **Tomofuji, Y.**, Danks, L., Nitta, T., Komatsu, N., Kodama, T. & Takayanagi, H. Fezf2 orchestrates a thymic program of self-antigen expression for immune tolerance. Cell 163, 975–987 (2015).
+
+
+
+Preprints
+======
+<a id="Preprints">
+
+
+The ‘\*’ and ‘†’ symbols indicate equal contribution and correspondence, respectively, in the following list.
+
+* **Yoshihiko Tomofuji†**, Ryuya Edahiro, Yuya Shirai, Kian Hong Kock, Kyuto Sonehara, Qingbo S. Wang, Shinichi Namba, Jonathan Moody, Yoshinari Ando, Akari Suzuki, Tomohiro Yata, Kotaro Ogawa, Ho Namkoong, Quy Xiao Xuan Lin, Eliora Violain Buyamin, Le Min Tan, Radhika Sonthalia, Kyung Yeon Han, Hiromu Tanaka, Ho Lee, Asian Immune Diversity Atlas Network, Japan COVID-19 Task Force, The BioBank Japan Project, Tatsusada Okuno, Boxiang Liu, Koichi Matsuda, Koichi Fukunaga, Hideki Mochizuki, Woong-Yang Park, Kazuhiko Yamamoto, Chung-Chau Hon, Jay W. Shin, Shyam Prabhakar, Atsushi Kumanogoh, & Yukinori Okada†. Quantification of the escape from X chromosome inactivation with the million cell-scale human single-cell omics datasets reveals heterogeneity of escape across cell types and tissues. bioRxiv 2023.10.14.561800 (2023) doi:10.1101/2023.10.14.561800.
