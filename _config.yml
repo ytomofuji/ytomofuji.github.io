@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yoshihiko Tomofuji (M.D., Ph.D.)"
   avatar           : "profile.png"
-  bio              : "Assistant professor at the University of Tokyo. Investigating the Immune-related diseases through omics technologies (e.g. single-cell RNA/ATAC-seq, metagenome sequencing, GWAS, etc...)."
-  location         : "Tokyo, Japan"
+  bio              : "Postdoctoral Fellow at Brigham and Women's Hospital, Harvard Medical School, and the Broad Institute. I investigate immune-related diseases by integrating computational approaches with cutting-edge CRISPR genome editing."
+  location         : "Boston, USA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Tomofuji+Yoshihiko&cauthor_id=34426398"
   googlescholar    : "https://scholar.google.co.jp/citations?hl=ja&user=rs2N4vUAAAAJ"
